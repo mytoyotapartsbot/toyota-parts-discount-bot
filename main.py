@@ -12,7 +12,7 @@ TELEGRAM_BOT_TOKEN = "8029188534:AAFxcqUHqGZxX_8ewFNCq5Adapt7LlKe1cI"  # Token d
 TELEGRAM_CHAT_ID = "5739742449"  # Lo llenaremos después automáticamente
 
 # Página a monitorear (puedes agregar más luego)
-URL = "URL = "URL = "https://autoparts.toyotaofnorthmiami.com/?_cl=h4R9pTgJvEPYXXJWtTESnET3"
+URL = "URL = "URL = URL = "https://autoparts.toyotaofnorthmiami.com/?_cl=h4R9pTgJvEPYXXJWtTESnET3"
 
 # Palabras clave que indican ofertas
 KEYWORDS = ["% off", "descuento", "free shipping", "$", "percent", "%", "rebate", "special", "save"]
